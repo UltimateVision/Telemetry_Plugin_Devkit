@@ -40,7 +40,7 @@
     <Reference Include="System.Data" />
     <Reference Include="System.Xml" />
     <Reference Include="TelemetryPlugin">
-      <HintPath>..\..\TelemetryPlugin\TelemetryPlugin\bin\Release\TelemetryPlugin.dll</HintPath>
+      <HintPath>.\TelemetryPlugin.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
